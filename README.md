@@ -8,4 +8,3 @@ Aspiring .NET developer and software engineer, with interests in C#, ASP.NET Cor
   - **TypeScript, Blazor, Powershell, Design Patterns**
 - 💬 Ask me about 
   - **.NET (ASP.NET Core, MVC + MVVM), EF Core, Angular, REST APIs, CQRS and Clean Architecture** 
-- 🤔 I’m looking for help with **Commerical Experience and code reviews**
