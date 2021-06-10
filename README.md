@@ -1,6 +1,6 @@
 ### Owen Steele
 
-Aspiring .NET developer and software engineer, with interests in C#, ASP.NET Core and Angular.
+Aspiring Junior .NET developer and software engineer, with interests in C#, ASP.NET Core, Blazor and Angular.
 
 - 🔭 I’m currently working on 
   - **Portfolio projects below, featuring - 'LocalParks', 'GReadr', 'PlannR' and React link modules app coming Soon!**
